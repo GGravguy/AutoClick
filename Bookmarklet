@@ -1,0 +1,1 @@
+javascript:(function(){fetch("https://raw.githubusercontent.com/GGravguy/AutoClick/refs/heads/main/AutoClick.js").then(r=>r.text()).then(eval);})();
